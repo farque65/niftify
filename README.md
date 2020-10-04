@@ -25,7 +25,7 @@ npm start
 
 ### `Resource for this project`
 
-The following videos created by the youtube channel Clever Programmer were used to create this project
+The following videos created by the youtube channel [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) were used to create this project
 
-[Part 1](https://youtu.be/1_IYL9ZMR_Y)
+[Part 1](https://youtu.be/1_IYL9ZMR_Y)<br/>
 [Part 2](https://youtu.be/iRwE2YTZsjQ)
