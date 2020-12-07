@@ -1,4 +1,4 @@
-## Amazon Clone
+## [Amazon Clone](https://e-clone-7386a.web.app/)
 
 This is a clone of the amazon website with basic functionality that includes:
 - Interactive navbar
