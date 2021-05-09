@@ -1,0 +1,12 @@
+.mintview {
+	max-width: 1500px;
+	margin-left: 50px;
+	margin-right: auto;
+	margin-top: 50px;
+}
+.mintview__row {
+	display: flex;
+	z-index: 1;
+	margin-left: 5px;
+	margin-right: 5px;
+}
