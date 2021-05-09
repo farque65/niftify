@@ -27,3 +27,12 @@ firebase.json
 .firebase
 firebase.js
 
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+#environment info
+.env
